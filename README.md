@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Multi+Account+Manager;👥+Управляйте+аккаунтами;⚡+Переключение+в+1+клик" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/📦_Версия-v3.2.0-58a6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/👥_Аккаунты-∞-3fb950?style=for-the-badge" />
